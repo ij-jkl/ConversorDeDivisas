@@ -1,7 +1,9 @@
 # Conversor De Divisas - Java
 Este conversor de Divisas fue hecho con java y utilizando la siguiente API gratuita : https://www.exchangerate-api.com/
+
 La meta de la aplicacion es aprender a hacer uso de una API y al mismo tiempo interactuar con ella.
-Cuando corremos el programa debemos ver el siguiente menu
+
+--Cuando corremos el programa debemos ver el siguiente menu
 
 
 ![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/da562882-a245-451a-8893-ac996f578df4)
@@ -11,7 +13,8 @@ El mismo nos da 6 opciones distintas para ver la conversion de las mismas.
 Una vez elejida la opcion a convertir nos va a pedir que ingresemos el monto que queremos convertir, de la siguiente manera : 
 
 
-![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/6b3a45d7-7d97-44ad-bf89-ecccf5edc22a)
+![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/d0030671-4b06-46c9-812f-bf187c0f5ba5)
+
 
 
 Luego ingresar eso vamos a evaluar la opcion ingresada por el usuario y pasarle a la api que monedas queremos cambiar
@@ -49,5 +52,5 @@ Otro ejemplo convirtiendo el Real a Dolar :
 Finalmente una vez ingresado la opcion numero 7 el programa se finalizara, tambien tenemos en cuenta que tenemos en cuenta que si no se ingresa un valor valido en el menu se va a seguir ejecutando.
 
 
-![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/9ea68a2f-fb09-4bc0-b697-da301c2db806)
+![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/0d255ab2-cba2-4234-b0a1-71e4f0188bb0)
 
