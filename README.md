@@ -19,7 +19,8 @@ Podriamos modificar el programa para que el usuario ingrese la moneda de la sigu
 Una vez realizado eso deberiamos ver esto en la consola : 
 
 
-![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/b22b3afe-8ec7-4cf2-a2d6-e9efb6036a93)
+![image](https://github.com/ij-jkl/ConversorDeDivisas/assets/49004469/29bc14c6-8755-4bb1-9223-873a73312fe0)
+
 
 
 Automaticamente la api recibe las monedas a convertir y devuelve el conversion rate (esto nos permite no tener que calcular el cambio nostoros y ahorrar recursos)
